@@ -48,6 +48,14 @@ This project is licensed under the **MIT License**.
 ---
 🏁 **Start your game and enjoy the race!** 
 
+**Get in Touch:**
+- Website: [www.sameer-shaik.com](http://www.sameer-shaik.com)
+- Gmail: sameer.shaik@gwu.edu
+
+If you have any questions or need clarification, feel free to reach out. Thank you!
+
+**License:**
+This script is released under the MIT License. You are free to use, modify, and distribute it as you wish. If you encounter any bugs or have suggestions for improvement, please submit an issue or pull request on this repository.
 
 
 
